@@ -1,0 +1,15 @@
+.mouse {
+  cursor: pointer;
+}
+
+.box:hover {
+  background-color: rgb(209, 205, 205);
+}
+
+.image-box {
+	padding: 10px;
+}
+
+.text-box {
+  text-align: center;
+}
